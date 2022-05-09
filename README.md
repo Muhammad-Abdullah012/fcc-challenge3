@@ -1,1 +1,0 @@
-# fcc-challenge3
